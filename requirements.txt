@@ -1,0 +1,13 @@
+numpy
+opencv-python
+torch
+ultralytics
+pandas
+scikit-learn
+matplotlib
+seaborn
+pylgbst
+argparse
+joblib
+imutils
+bleak

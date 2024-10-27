@@ -1,0 +1,4 @@
+Pipeline(steps=[('standardscaler', StandardScaler()),
+                ('mlpclassifier', MLPClassifier())])
+None
+0.9879097033294467

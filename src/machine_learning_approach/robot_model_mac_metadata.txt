@@ -1,0 +1,4 @@
+Pipeline(steps=[('standardscaler', StandardScaler()),
+                ('logisticregression', LogisticRegression())])
+None
+0.9982378854625551
